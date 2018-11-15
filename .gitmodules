@@ -1,0 +1,8 @@
+[submodule "moltimate-backend"]
+	path = moltimate-backend
+	url = git@github.com:moltimate/moltimate-backend.git
+	branch = master
+[submodule "moltimate-frontend"]
+	path = moltimate-frontend
+	url = git@github.com:moltimate/moltimate-frontend.git
+	branch = master
